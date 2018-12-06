@@ -1,0 +1,147 @@
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Vocab.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Vocab.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.csprojResolveAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.MainPage.xaml.g.cs
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.App.xaml.g.cs
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.Home.xaml.g.cs
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.Background.xaml.g.cs
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.MeuVocab.xaml.g.cs
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.Question.xaml.g.cs
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.Add.xaml.g.cs
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab\obj\Debug\Vocab.pdb
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.csprojResolveAssemblyReference.cache
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.csproj.CoreCompileInputs.cache
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.MainPage.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.App.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Home.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Background.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.MyVocab.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Play.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Add.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Adjetivos.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Adverbios.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Substantivos.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Verbos.xaml.g.cs
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.dll
+E:\Vocab\Vocab\Vocab\obj\Debug\Vocab.pdb
+E:\Vocab\Vocab\Vocab\bin\Debug\Vocab.dll
+E:\Vocab\Vocab\Vocab\bin\Debug\Vocab.pdb
+E:\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.dll
+E:\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.core.dll
+E:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.dll
+E:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.pdb
+E:\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.xml
+E:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.xml
+E:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Vocab\Vocab\Vocab\bin\Debug\Vocab.dll
+F:\Vocab\Vocab\Vocab\bin\Debug\Vocab.pdb
+F:\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.dll
+F:\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_green.dll
+F:\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Vocab\Vocab\Vocab\bin\Debug\SQLitePCLRaw.core.dll
+F:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.dll
+F:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.pdb
+F:\Vocab\Vocab\Vocab\bin\Debug\SQLite-net.xml
+F:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.xml
+F:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Vocab\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.csprojResolveAssemblyReference.cache
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.csproj.CoreCompileInputs.cache
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.MainPage.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.App.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Home.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Background.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.MyVocab.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Play.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Add.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Adjetivos.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Adverbios.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Substantivos.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.Verbos.xaml.g.cs
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.dll
+F:\Vocab\Vocab\Vocab\obj\Debug\Vocab.pdb
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Vocab.dll
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Vocab.pdb
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\SQLite-net.dll
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\SQLitePCLRaw.core.dll
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.dll
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\SQLite-net.pdb
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\SQLite-net.xml
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.xml
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Vocab sem binding\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.csprojResolveAssemblyReference.cache
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.csproj.CoreCompileInputs.cache
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.MainPage.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.App.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.Home.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.Background.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.MyVocab.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.Play.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.Add.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.Adjetivos.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.Adverbios.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.Substantivos.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.Verbos.xaml.g.cs
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.dll
+E:\Vocab sem binding\Vocab\Vocab\obj\Debug\Vocab.pdb
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Vocab.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Vocab.pdb
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\SQLite-net.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\SQLitePCLRaw.core.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\SQLite-net.pdb
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\SQLite-net.xml
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Xamarin.Forms.Core.xml
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.csprojResolveAssemblyReference.cache
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.csproj.CoreCompileInputs.cache
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.MainPage.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.App.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.Home.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.Background.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.Play.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.Add.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.Adjetivos.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.Adverbios.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.Substantivos.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.Verbos.xaml.g.cs
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.dll
+E:\Vocab 1.2\Vocab\Vocab\obj\Debug\Vocab.pdb

@@ -1,0 +1,540 @@
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab.apk
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab-Signed.apk
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csprojResolveAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.dll
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.pdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\android\bin\com.companyname.Vocab.apk
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\values\styles.xml
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\main_page.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\add_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\help_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_page.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\meuvocab_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\question_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\add_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\help_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_page.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\meuvocab_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\question_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\add_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\help_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_page.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\meuvocab_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\question_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\add_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\help_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\home_page.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\meuvocab_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\question_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\add_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\help_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\home_page.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\meuvocab_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\question_icon.png
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\R.cs.flag
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\uploadflags.txt
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Vocab.Android.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Vocab.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\guilh\OneDrive\Documentos\Visual Studio 2017\Projects\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\meuvocab_page.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csprojResolveAssemblyReference.cache
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.dll
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.pdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.pdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab.apk
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab-Signed.apk
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.core.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.pdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.pdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.pdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.xml
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csproj.CoreCompileInputs.cache
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\android\bin\com.companyname.Vocab.apk
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\layout\tabbar.xml
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\layout\toolbar.xml
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\values\styles.xml
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\main_page.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\add_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\help_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_page.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\add_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\help_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_page.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\add_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\help_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_page.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\add_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\help_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\home_page.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\add_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\help_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\home_page.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\meuvocab_page.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\R.cs.flag
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\uploadflags.txt
+E:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Vocab.Android.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Vocab.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\home_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\home_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_iconblue.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_iconblue.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_iconblue.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\myvocab_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\play_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\myvocab_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\play_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\myvocab_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\play_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\myvocab_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\play_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\myvocab_icon.png
+E:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\play_icon.png
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.pdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab.apk
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab-Signed.apk
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.core.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.pdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.pdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.pdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\SQLite-net.xml
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.xml
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csprojResolveAssemblyReference.cache
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csproj.CoreCompileInputs.cache
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.dll
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\Vocab.Android.pdb
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\android\bin\com.companyname.Vocab.apk
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\layout\tabbar.xml
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\layout\toolbar.xml
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\values\styles.xml
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\main_page.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\add_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\help_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_page.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\add_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\help_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_page.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\add_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\help_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_page.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\add_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\help_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\home_page.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\add_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\help_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\home_page.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\home_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\home_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_iconblue.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_iconblue.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_iconblue.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\myvocab_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\play_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\myvocab_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\play_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\myvocab_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\play_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\myvocab_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\play_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\myvocab_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\play_icon.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\res\drawable\myvocab_page.png
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\R.cs.flag
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\uploadflags.txt
+F:\Vocab\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Vocab.Android.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Vocab.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Vocab\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Vocab.Android.pdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab.apk
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab-Signed.apk
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\SQLite-net.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.core.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Vocab.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Vocab.pdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Vocab.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.pdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\SQLite-net.pdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\SQLite-net.xml
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csprojResolveAssemblyReference.cache
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csproj.CoreCompileInputs.cache
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\Vocab.Android.dll
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\Vocab.Android.pdb
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\android\bin\com.companyname.Vocab.apk
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\layout\tabbar.xml
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\layout\toolbar.xml
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\values\styles.xml
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable\main_page.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\add_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\help_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_page.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\add_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\help_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_page.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\add_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\help_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_page.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\add_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\help_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\home_page.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\add_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\help_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\home_page.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\home_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\home_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable\icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_iconblue.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_iconblue.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_iconblue.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\myvocab_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\play_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\myvocab_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\play_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\myvocab_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\play_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\myvocab_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\play_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\myvocab_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\play_icon.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\res\drawable\myvocab_page.png
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\R.cs.flag
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\uploadflags.txt
+E:\Vocab sem binding\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\android\assets\Vocab.Android.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\android\assets\Vocab.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Vocab sem binding\Vocab\Vocab.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Vocab.Android.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab.apk
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\com.companyname.Vocab-Signed.apk
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\SQLite-net.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.core.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Vocab.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Vocab.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\SQLite-net.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\SQLite-net.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csprojResolveAssemblyReference.cache
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\Vocab.Android.csproj.CoreCompileInputs.cache
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\Vocab.Android.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\Vocab.Android.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\android\bin\com.companyname.Vocab.apk
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\layout\tabbar.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\layout\toolbar.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\values\styles.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\main_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\substantivo_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\adjetivo_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\adverbio_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\verbo_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\play_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\add_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-hdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-mdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xhdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxhdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\res\drawable-xxxhdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\R.cs.flag
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Debug\uploadflags.txt
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Debug\Vocab.Android.dll
+E:\Vocab 1.2\Vocab\Vocab\bin\Debug\Vocab.dll
+bin\Debug\Vocab.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Vocab.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Vocab.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\SQLite-net.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

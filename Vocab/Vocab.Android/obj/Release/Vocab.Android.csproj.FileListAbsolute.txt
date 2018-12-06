@@ -1,0 +1,152 @@
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Vocab.Android.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Vocab.Android.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\com.companyname.Vocab.apk
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\com.companyname.Vocab-Signed.apk
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\FormsViewGroup.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\SQLite-net.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\SQLitePCLRaw.batteries_green.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\SQLitePCLRaw.batteries_v2.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\SQLitePCLRaw.core.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Vocab.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Design.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.v4.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Core.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Platform.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Xaml.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Vocab.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\FormsViewGroup.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\FormsViewGroup.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\SQLite-net.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\SQLite-net.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Core.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Core.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Xaml.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\Vocab.Android.csprojResolveAssemblyReference.cache
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\Vocab.Android.csproj.CoreCompileInputs.cache
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\Vocab.Android.dll
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\Vocab.Android.pdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\android\bin\com.companyname.Vocab.apk
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\layout\tabbar.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\layout\toolbar.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\values\styles.xml
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\main_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\add_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\home_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\play_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\substantivo_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\adjetivo_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\adverbio_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\verbo_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\play_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\welcome_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\add_page.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\verbo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\adjetivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\adverbio_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\substantivo_icon.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-hdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-mdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xhdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxhdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\res\drawable-xxxhdpi\vocab_logo.png
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\R.cs.flag
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\uploadflags.txt
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Vocab.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Vocab.Android.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\android\assets\Vocab.Android.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\android\assets\Vocab.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Vocab 1.2\Vocab\Vocab.Android\bin\Release\Vocab.Android.dll
+bin\Release\Vocab.dll.mdb
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\Vocab.Android.dll.mdb
+obj\Release\linksrc\FormsViewGroup.dll.mdb
+obj\Release\linksrc\Vocab.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\SQLite-net.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb

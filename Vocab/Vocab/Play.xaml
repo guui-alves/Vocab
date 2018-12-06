@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Vocab.Play">
+
+    <Grid>
+        <Image Source="play_page" Aspect="AspectFill" />
+        <StackLayout x:Name="LayoutCima" VerticalOptions="Start" Margin="40, 50, 30, 0">
+            
+            <Label x:Name="Instrucao" Text="Tente acertar a palavra baseado na descrição gerada!"></Label>
+
+            <Label x:Name="Meaning" Margin="40, 70, 30, 0"></Label>
+            
+            <StackLayout x:Name="LayoutBaixo" VerticalOptions="End" Margin="50, 20, 50, 0" >
+                <Entry x:Name="Palavra" WidthRequest="50" Placeholder="E a palavra é..."></Entry>
+                
+                <Button x:Name="BtnPlay" Text="Verificar" HorizontalOptions="Center" BackgroundColor="CornflowerBlue" TextColor="White"></Button>
+
+            </StackLayout>
+
+        </StackLayout>
+    </Grid>
+    
+     
+</ContentPage>

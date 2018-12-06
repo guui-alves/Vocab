@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Vocab.Adverbios">
+
+    <Grid>
+        <Image x:Name="BackgroundAdverbio" Source="adverbio_page" Aspect="AspectFill" />
+        <ListView IsGroupingEnabled="True" BackgroundColor="Transparent" SeparatorVisibility="None" GroupDisplayBinding="{Binding Key}" ItemsSource ="{Binding DadosAgrupados}" VerticalOptions="Center" HasUnevenRows="True" Margin="30, 100, 30, 0">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+
+                            <Label x:Name="Meaning" Text="{Binding Significado}" FontAttributes="Italic" FontSize="16">
+                                <Label.FontFamily>
+                                    <OnPlatform x:TypeArguments="x:String">
+                                        <On Platform="iOS" Value="IndieFlower" />
+                                        <On Platform="Android" Value="IndieFlower.ttf#IndieFlower" />
+
+                                    </OnPlatform>
+                                </Label.FontFamily>
+                            </Label>
+                        </StackLayout>
+
+                    </ViewCell>
+
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+    
+</ContentPage>      

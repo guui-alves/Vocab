@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Vocab.Add">
+
+    <Grid>
+        <Image Source="add_page" Aspect="AspectFill" />
+        <StackLayout VerticalOptions="Center" Margin="30, 0, 30, 0">
+            <Entry x:Name="Palavra" Placeholder="Insira uma nova palavra..." HorizontalOptions="Center"></Entry>
+            <Button x:Name="BtnAdd" Text="Buscar" HorizontalOptions="Center" BackgroundColor="CornflowerBlue" TextColor="White"></Button>
+        </StackLayout>
+    </Grid>
+    
+</ContentPage>
